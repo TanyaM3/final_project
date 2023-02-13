@@ -9,7 +9,6 @@
 <fmt:message bundle="${locale}" key="menu.addNewsLink"
 	var="menu_addNewsLink" />
 
-
 <div class="menu-wrapper">
 	<div class="menu-title-wrapper">
 		<div class="menu-title">${menu_title}</div>
